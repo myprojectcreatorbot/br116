@@ -1,0 +1,12 @@
+[
+  {
+    "name": "GROZNY",
+    "color": "FF0000",
+    "dopname": "X2",
+    "maxonline": 100,
+    "online": 1,
+    "ip": "5.182.4.101",
+    "port": 1941,
+    "id": 1
+  }
+]
